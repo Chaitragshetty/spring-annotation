@@ -8,7 +8,6 @@
     <artifactId>springannotation</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
-
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
         <dependency>
             <groupId>org.springframework</groupId>
